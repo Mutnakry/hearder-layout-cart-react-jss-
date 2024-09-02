@@ -24,7 +24,7 @@ function Header() {
     // </header>
 
     <nav className="bg-fuchsia-700 border-gray-200 dark:bg-purple-700">
-      <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-2">
+      <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-2" >
         <a href="" className="flex items-center space-x-3 rtl:space-x-reverse">
           <img classNameName='rounded-full h-10 w-10' src="https://cdn-icons-png.freepik.com/512/2504/2504814.png" className="h-8" alt="Flowbite Logo" />
           <span className="self-center text-slate-50 text-2xl font-semibold whitespace-nowrap">ហាងលក់ទំនេញ</span>
